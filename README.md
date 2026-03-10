@@ -17,7 +17,8 @@ I'm a versatile professional with experience in **manual testing**, **UI/UX desi
 - **Methodologies**: Agile, Scrum.
 
 ### 💼 Work Experience:
-- **Test Engineer @ Astrokyon** (2021 – Present)
+- **Test Engineer @ Computershare (ingage IR)** (2025 – present)
+- **Test Engineer @ Astrokyon** (2021 – 2025)
 - **Test Engineer @ Nexio Management** (2023)
 - **Test Engineer @ uTest** (2021 – 2022)
 - **Copywriter @ Upwork** (2010 – 2021)
